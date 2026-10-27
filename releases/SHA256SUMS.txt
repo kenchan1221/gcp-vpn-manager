@@ -1,0 +1,2 @@
+fd8852000474ff73568af4f7bf4100494d2bc3172f33b5a11340a6eecd4cb65d  windows-x64/GcpVpnManager-windows-x64.exe
+f2da8474bc461f558507ef115da6501ff9ef3ec908dca0ae1a670e05873f35be  windows-x86/GcpVpnManager-windows-x86.exe
